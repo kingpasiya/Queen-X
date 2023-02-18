@@ -23,7 +23,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
 
-global.session = "YXF5RWYwZ0I=" //session Id 
+global.session = "VkNRQzJucUE=" //session Id 
 global.ownernomer = "94719225807" //ur number
 global.premium = ['94719225807'] //ur premium number
 global.botname = '94719225807' //ur bot name
